@@ -1,0 +1,6 @@
+node_modules/
+webpack/
+dist/
+coverage/
+webpack.config.js
+jest.config.js
